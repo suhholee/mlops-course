@@ -30,6 +30,9 @@ wheels/
 # Data
 data/*
 !data/.gitkeep
+!data/adult.data.dvc
+!data/adult.test.dvc
+!data/adult.names.dvc
 
 # Models
 models/*

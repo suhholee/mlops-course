@@ -1,0 +1,22 @@
+schema: '2.0'
+stages:
+  preprocess:
+    cmd: /opt/homebrew/anaconda3/envs/mlops/bin/python src/preprocessing.py
+    deps:
+    - path: data/baseball_hitting.csv
+      hash: md5
+      md5: 461ec4a23bf875430f65ed2a56dcb81f
+      size: 206398
+    - path: src/preprocessing.py
+      hash: md5
+      md5: a4beb73f249becf1994785e19da62c1d
+      size: 2537
+    outs:
+    - path: data/processed_test_data.csv
+      hash: md5
+      md5: aeba9a601bf8c7fd9bd374756aabc101
+      size: 25537
+    - path: data/processed_train_data.csv
+      hash: md5
+      md5: e7296c89be4f1370e705fd2700b764f7
+      size: 102149

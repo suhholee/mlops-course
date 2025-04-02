@@ -1,0 +1,5 @@
+outs:
+- md5: 461ec4a23bf875430f65ed2a56dcb81f
+  size: 206398
+  hash: md5
+  path: baseball_hitting.csv

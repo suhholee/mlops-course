@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/709672985935491489
+creation_time: 1744835672365
+experiment_id: '709672985935491489'
+last_update_time: 1744835672365
+lifecycle_stage: active
+name: baseball-model-training

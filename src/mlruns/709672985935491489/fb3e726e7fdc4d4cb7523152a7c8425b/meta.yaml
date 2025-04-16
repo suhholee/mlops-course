@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/709672985935491489/fb3e726e7fdc4d4cb7523152a7c8425b/artifacts
+end_time: 1744835675341
+entry_point_name: ''
+experiment_id: '709672985935491489'
+lifecycle_stage: active
+run_id: fb3e726e7fdc4d4cb7523152a7c8425b
+run_name: metaflow-run-GradientBoosting
+run_uuid: fb3e726e7fdc4d4cb7523152a7c8425b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744835672492
+status: 3
+tags: []
+user_id: suhholee

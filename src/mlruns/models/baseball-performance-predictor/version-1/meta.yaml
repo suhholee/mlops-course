@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744835675335
+current_stage: None
+description: ''
+last_updated_timestamp: 1744835675335
+name: baseball-performance-predictor
+run_id: fb3e726e7fdc4d4cb7523152a7c8425b
+run_link: ''
+source: mlflow-artifacts:/709672985935491489/fb3e726e7fdc4d4cb7523152a7c8425b/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/709672985935491489/fb3e726e7fdc4d4cb7523152a7c8425b/artifacts/model
+user_id: null
+version: 1
